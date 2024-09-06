@@ -1,0 +1,6 @@
+__author__ = "Himanshu Sharma"
+__copyright__ = "Copyright 2024, Personal"
+__license__ = "GreymanAI ownership"
+__version__ = "0.1"
+__maintainer__ = "Himanshu Sharma"
+__status__ = "Development"
